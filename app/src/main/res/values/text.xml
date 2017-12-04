@@ -1,0 +1,16 @@
+<resources>
+	<string name="app_name">08 exercise</string>
+	<string name="add">Add</string>
+	<string name="first_name">First Name</string>
+	<string name="last_name">Last Name</string>
+	<string name="phone">Phone</string>
+	<string name="website">Website</string>
+	<string name="contacts">Contacts</string>
+	<string name="contact_form">Contact Form</string>
+	<string name="edit">Edit</string>
+	<string name="cancel">Cancel</string>
+	<string name="update">Update</string>
+	<string name="web">Web</string>
+	<string name="first_name_and_website_cannot_be_empty">First name and website cannot be empty</string>
+	<string name="openWebsite">Open Website</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scs2682.exercise08.ui.home.Contacts
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:padding="16dp"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	<Button
+		android:id="@+id/add"
+		android:text="@string/add"
+		android:textSize="24sp"
+		android:padding="16dp"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"/>
+	<android.support.v7.widget.RecyclerView
+		android:id="@+id/recyclerView"
+		android:layout_marginTop="16dp"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"/>
+</scs2682.exercise08.ui.home.Contacts>

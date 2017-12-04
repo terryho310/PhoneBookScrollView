@@ -1,0 +1,102 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/71556034edcb6fa7c619496827fac588/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/30123d10d0bf1bf1f2fcb871f4d8cac5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/6879d701c597af7a3588b9d8ad13aa72/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/d27631362ffef45dd583568bd14117cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/03254bd1e732b486bbf91319b9911626/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/946ab3b69f4afc2ca414a3275d376336/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/001df8c27dcd8190f06b5b5c1802bb77/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/bf28ce9ec09f21452233c914f375d0f8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/103c1a8951ac6c8bd8291119c445ac0a/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:3:2-30
+		INJECTED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:5:2-20:16
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/103c1a8951ac6c8bd8291119c445ac0a/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/103c1a8951ac6c8bd8291119c445ac0a/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:11:3-29
+	android:label
+		ADDED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:9:3-35
+	android:roundIcon
+		ADDED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:10:3-48
+	android:icon
+		ADDED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:8:3-37
+	android:allowBackup
+		ADDED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:7:3-29
+	android:theme
+		ADDED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:12:3-34
+	android:name
+		ADDED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:6:3-40
+activity#scs2682.exercise08.AppActivity
+ADDED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:13:3-19:14
+	android:name
+		ADDED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:13:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:14:4-18:20
+action#android.intent.action.MAIN
+ADDED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:15:5-56
+	android:name
+		ADDED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:15:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:17:5-64
+	android:name
+		ADDED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml:17:15-62
+uses-sdk
+INJECTED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/71556034edcb6fa7c619496827fac588/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/71556034edcb6fa7c619496827fac588/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/30123d10d0bf1bf1f2fcb871f4d8cac5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/30123d10d0bf1bf1f2fcb871f4d8cac5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/6879d701c597af7a3588b9d8ad13aa72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/6879d701c597af7a3588b9d8ad13aa72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/d27631362ffef45dd583568bd14117cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/d27631362ffef45dd583568bd14117cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/03254bd1e732b486bbf91319b9911626/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/03254bd1e732b486bbf91319b9911626/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/946ab3b69f4afc2ca414a3275d376336/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/946ab3b69f4afc2ca414a3275d376336/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/001df8c27dcd8190f06b5b5c1802bb77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/001df8c27dcd8190f06b5b5c1802bb77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/bf28ce9ec09f21452233c914f375d0f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/bf28ce9ec09f21452233c914f375d0f8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/103c1a8951ac6c8bd8291119c445ac0a/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/103c1a8951ac6c8bd8291119c445ac0a/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Terry/Desktop/TH/Android/08-exercise-end/app/src/main/AndroidManifest.xml
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/103c1a8951ac6c8bd8291119c445ac0a/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/103c1a8951ac6c8bd8291119c445ac0a/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Terry/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/103c1a8951ac6c8bd8291119c445ac0a/AndroidManifest.xml:26:13-58
